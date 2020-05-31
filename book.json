@@ -1,0 +1,10 @@
+{
+  "gitbook":"3.x.x",
+  "puglins":[
+    "include-codeblock",
+    "ace"
+ 
+ ],
+ "pluginsConfig":{
+    "include-codeblock":{
+        "template":"acefull",
